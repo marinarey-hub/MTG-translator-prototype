@@ -8,6 +8,8 @@ The main goal was to experiment with the implementation of a bilingual terminolo
 
 The prototype uses a glossary containing source terms, their Spanish equivalents and priority levels. It attempts to identify and translate terminology and expressions according to their importance, prioritizing specific terms and collocations over more generic matches.
 
+In this repository you will find a xlsx document containing the glossary collected by me, a pdf document with the abstract and conclusions of my project, and the program itself.
+
 ## Scope and Limitations
 
 **This project is an early-stage prototype, not a finished translation tool.**
